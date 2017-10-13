@@ -1,0 +1,157 @@
+/*ID: 620098053*/
+body{
+margin:0 auto;
+padding: 0;
+background-color: lavender;
+font-family: "Arial"
+}
+    
+h5{
+    line-height: 0;
+}
+
+h1{
+    line-height: 0;
+}
+
+hr{
+ 
+}
+
+h4 em strong{
+   /* position: absolute;
+    text-align: center;*/
+}
+
+h4{
+    font-weight: 900;
+}
+
+h5 strong {
+    text-align: right;
+}
+
+h1{
+     font-family: "Arial", "Times", serif;
+}
+
+.L{
+    width: 86%;
+    display: inline-block;
+    padding-left: 2%;
+}
+
+.pic{
+   display: inline-block;
+   width: 7%;
+   float: right;
+   transform: rotate(-3deg);
+   padding-right: 5%;
+}
+
+.education{
+    display: inline-block;
+}
+
+.T{
+    text-align: right;
+    display: inline-block;
+    width: 40% 300px;
+    width:300px;
+    padding: 170px 0 0 0;
+}
+
+.N{
+    display: inline-block;
+}
+
+.C{
+    display: inline-block;
+    float:right;
+    width:60% 800px;
+    text-align: left;
+    
+}
+
+.skills{
+    display:inline-block;
+    
+}
+
+.H{
+    text-align: right;
+    width: 300px;
+    width:40% 300px;
+}
+
+.U{
+    float:right;
+    width: 60% 800px;
+}
+
+
+.F{
+    display: inline-block;
+}
+
+.experience{
+    display: inline-block;
+    
+}
+
+.A{
+    text-align: right;
+    width: 40% 300px;
+    width:300px;
+}
+
+.S{
+    float: right;
+    width:60% 800px;
+    
+}
+
+.R{
+    display: inline-block;
+}
+
+.reference{
+    display: inline-block;
+   
+}
+
+.B{
+    text-align: right;
+    width: 40% 300px;
+    width: 300px;
+}
+
+
+.Z{
+    float: right;
+    width: 60% 800px;
+}
+
+.Q{
+    display: inline-block;
+}
+
+.hobbies{
+    display: inline-block;
+    
+}
+
+.K{
+    text-align: right;
+    width: 40% 300px;
+    width: 300px;
+}
+
+.Y{
+    float: right;
+    width:60% 800px;
+}
+
+.W{
+    display: inline-block;
+}# info2180-project
