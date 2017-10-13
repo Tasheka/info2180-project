@@ -154,4 +154,11 @@ h1{
 
 .W{
     display: inline-block;
-}# info2180-project
+}
+
+.container {
+      width:1000px;
+      margin:0 auto;
+      padding:10px 25px;
+      border:1px solid #ccc;
+      background:#fff; }
